@@ -1,0 +1,28 @@
+{
+  "states": {
+    "Alabama": {
+      "capital": "Montgomery",
+      "address": "600 Dexter Avenue, Montgomery, AL 36130",
+      "latitude": 32.3777741,
+      "longitude": -86.3002857
+    },
+    "Alaska": {
+      "capital": "Juneau",
+      "address": "120 4th Street, Juneau, AK 99801",
+      "latitude": 58.3021624,
+      "longitude": -134.4100853
+    },
+    "Arizona": {
+      "capital": "Phoenix",
+      "address": "1700 W Washington Street, Phoenix, AZ 85007",
+      "latitude": 33.4481203,
+      "longitude": -112.0978012
+    },
+    "Arkansas": {
+      "capital": "Little Rock",
+      "address": "500 Woodlane Street, Little Rock, AR 72201",
+      "latitude": 34.7466091,
+      "longitude": -92.2892042
+    },
+    "California": {
+      "capital": "Sacramento
